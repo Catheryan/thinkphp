@@ -1,0 +1,11 @@
+[ 2015-10-16T17:33:28+08:00 ] ::1 /ThinkPhp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.062979s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014934s ]
+
